@@ -2,8 +2,10 @@
 ## 二级标题
 ### 三级标题
 #### 标题四
-！[这是一张图片] ((https://www.baidhttps://www.baidu.com/img/bd_logo1.png u.com)
-[百度] (https://www.baidu.com)
+！[这是一张图片] ((https://www.baidhttps://www.baidu.com/img/bd_logo1.png u.com)  
+
+[百度] (https://www.baidu.com)  
+
 ```python
 def hello():
     print("Hello, Markdown!")
@@ -11,21 +13,21 @@ def hello():
 > 这是一段引用
 
 把大象放进冰箱：
-1.打开冰箱
-2.把大象塞进去
-3.关上冰箱
+1. 打开冰箱  
+2. 把大象塞进去  
+3. 关上冰箱
 
 无序列表
--被子
--枕头
+- 被子
+- 枕头
 
-*睡觉
-*关灯
+* 睡觉
+* 关灯
 
 明天要做的事：
--[x] 吃饭
--[] 睡觉
--[] 打豆豆
+- [x] 吃饭
+- [] 睡觉
+- [] 打豆豆
 
 代码块：
 ```python
